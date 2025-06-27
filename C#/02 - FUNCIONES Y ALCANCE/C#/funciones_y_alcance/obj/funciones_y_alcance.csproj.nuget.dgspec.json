@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\wamp64\\www\\Roadmap\\02 - FUNCIONES Y ALCANCE\\c#\\funciones_y_alcance\\funciones_y_alcance.csproj": {}
+    "C:\\wamp64\\www\\Roadmap\\C#\\02 - FUNCIONES Y ALCANCE\\C#\\funciones_y_alcance\\funciones_y_alcance.csproj": {}
   },
   "projects": {
-    "C:\\wamp64\\www\\Roadmap\\02 - FUNCIONES Y ALCANCE\\c#\\funciones_y_alcance\\funciones_y_alcance.csproj": {
+    "C:\\wamp64\\www\\Roadmap\\C#\\02 - FUNCIONES Y ALCANCE\\C#\\funciones_y_alcance\\funciones_y_alcance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\wamp64\\www\\Roadmap\\02 - FUNCIONES Y ALCANCE\\c#\\funciones_y_alcance\\funciones_y_alcance.csproj",
+        "projectUniqueName": "C:\\wamp64\\www\\Roadmap\\C#\\02 - FUNCIONES Y ALCANCE\\C#\\funciones_y_alcance\\funciones_y_alcance.csproj",
         "projectName": "funciones_y_alcance",
-        "projectPath": "C:\\wamp64\\www\\Roadmap\\02 - FUNCIONES Y ALCANCE\\c#\\funciones_y_alcance\\funciones_y_alcance.csproj",
+        "projectPath": "C:\\wamp64\\www\\Roadmap\\C#\\02 - FUNCIONES Y ALCANCE\\C#\\funciones_y_alcance\\funciones_y_alcance.csproj",
         "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-        "outputPath": "C:\\wamp64\\www\\Roadmap\\02 - FUNCIONES Y ALCANCE\\c#\\funciones_y_alcance\\obj\\",
+        "outputPath": "C:\\wamp64\\www\\Roadmap\\C#\\02 - FUNCIONES Y ALCANCE\\C#\\funciones_y_alcance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config"
