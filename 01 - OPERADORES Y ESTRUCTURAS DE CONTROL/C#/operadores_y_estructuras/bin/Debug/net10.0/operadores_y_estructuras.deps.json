@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "operadores_y_estructuras/1.0.0": {
+        "runtime": {
+          "operadores_y_estructuras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operadores_y_estructuras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
